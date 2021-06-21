@@ -1,4 +1,4 @@
-package main
+package logger_zap_wrapper
 
 import (
 	"fmt"
